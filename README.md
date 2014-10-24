@@ -1,4 +1,5 @@
-# This is checker of http status
+# What's this
+This is checker of http status
 
 # HOW TO
 1. Writing url to "urls.csv"
